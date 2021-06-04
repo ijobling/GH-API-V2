@@ -1,0 +1,44 @@
+{
+ "name": "GH APIV V2",
+ "children": [
+  {
+   "title": "New Chapter",
+   "id": "4db13ce1-062d-a514-e101-bff1273a1e81",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "New Section",
+     "id": "38918bad-6523-5074-a0cf-606434d52e7a",
+     "type": "section",
+     "children": [
+      {
+       "title": "Page 1",
+       "id": "0df2e1f8-2bd6-2c54-86b4-833493173822",
+       "type": "page",
+       "pageId": "0df2e1f8-2bd6-2c54-86b4-833493173822"
+      },
+      {
+       "title": "Page 2",
+       "id": "813a5b02-c143-fcbc-9379-c2184cc5a1de",
+       "type": "page",
+       "pageId": "813a5b02-c143-fcbc-9379-c2184cc5a1de"
+      }
+     ]
+    },
+    {
+     "title": "New Section",
+     "id": "efa6fbf1-2ad0-4cb2-826a-25ed4a4cf6d4",
+     "type": "section",
+     "children": [
+      {
+       "id": "4fbe8b2d-65d2-1f56-5e4b-ff31923792e8",
+       "title": "New Page",
+       "pageId": "3fff2531-3697-7e3e-3516-bf69bf470c34",
+       "type": "page"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
