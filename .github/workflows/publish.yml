@@ -26,7 +26,7 @@ jobs:
           client-id: ${{ secrets.CODIO_PRODUCTION_CLIENT_ID }}
           secret-id: ${{ secrets.CODIO_PRODUCTION_SECRET_ID }}
           dir: ./
-          course-id: d5acfd16bb506756595cef3399e1d4
+          course-id: d5acfd16bb506a5b03c95cef3399e1d4
           assignment-id: 3b52656756565656cd19a4b869b8
           changelog: ${{ github.event.head_commit.message }}
           # Set the domain you are working on - codio.com or codio.co.uk
